@@ -1,3 +1,5 @@
+// Write the code using if..else which would correspond to the following switch:
+//
 // switch (browser) {
 //   case 'Edge':
 //     alert( "You've got the Edge!" );
